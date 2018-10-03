@@ -1,0 +1,8 @@
+<INFO> 3-Oct-2018::14:37:21.651 endor confd[6071]: netconf id=28 new tcp session for user "etu" from ::1
+<INFO> 3-Oct-2018::14:45:57.419 endor confd[6071]: netconf id=29 new tcp session for user "etu" from ::1
+<INFO> 3-Oct-2018::16:34:36.560 endor confd[6071]: netconf id=30 new tcp session for user "etu" from ::1
+<INFO> 3-Oct-2018::16:34:39.772 endor confd[6071]: netconf id=30 got rpc: {urn:ietf:params:xml:ns:netconf:base:1.0}get-config attrs: message-id="urn:uuid:44ae0cb5-c6d2-43fb-aaff-74dbd93832b3"
+<INFO> 3-Oct-2018::16:34:39.780 endor confd[6071]: netconf id=30 get-config source=running attrs: message-id="urn:uuid:44ae0cb5-c6d2-43fb-aaff-74dbd93832b3"
+<INFO> 3-Oct-2018::16:34:39.789 endor confd[6071]: netconf id=30 sending rpc-reply, attrs: message-id="urn:uuid:44ae0cb5-c6d2-43fb-aaff-74dbd93832b3"
+<INFO> 3-Oct-2018::16:34:51.822 endor confd[6071]: netconf id=30 close-session attrs: message-id="urn:uuid:36e1b914-a74a-4f54-8cae-dc65e0705c45"
+<INFO> 3-Oct-2018::16:34:51.823 endor confd[6071]: netconf id=30 sending rpc-reply, attrs: message-id="urn:uuid:36e1b914-a74a-4f54-8cae-dc65e0705c45"

@@ -1,0 +1,102 @@
+<INFO> 3-Oct-2018::14:20:09.105 endor confd[5676]: - Writing daemon log to /home/etu/Téléchargements/dhcpd/confd.log
+<INFO> 3-Oct-2018::14:20:09.108 endor confd[5676]: - Writing NETCONF log to /home/etu/Téléchargements/dhcpd/netconf.log
+<INFO> 3-Oct-2018::14:20:09.108 endor confd[5676]: - Writing audit log to /home/etu/Téléchargements/dhcpd/audit.log
+<INFO> 3-Oct-2018::14:20:09.108 endor confd[5676]: - Daemon logging started
+<INFO> 3-Oct-2018::14:20:09.108 endor confd[5676]: - Writing developer log to /home/etu/Téléchargements/dhcpd/devel.log
+<DEBUG> 3-Oct-2018::14:20:09.118 endor confd[5676]: - Loading file /home/etu/confd-6.4/etc/confd/ietf-netconf-monitoring.fxs
+<DEBUG> 3-Oct-2018::14:20:09.119 endor confd[5676]: - Loading file /home/etu/confd-6.4/etc/confd/tailf-common-monitoring.fxs
+<DEBUG> 3-Oct-2018::14:20:09.119 endor confd[5676]: - Loading file /home/etu/confd-6.4/etc/confd/ietf-netconf-acm.fxs
+<DEBUG> 3-Oct-2018::14:20:09.120 endor confd[5676]: - Loading file /home/etu/confd-6.4/etc/confd/iana-crypt-hash.fxs
+<DEBUG> 3-Oct-2018::14:20:09.120 endor confd[5676]: - Loading file /home/etu/confd-6.4/etc/confd/ietf-yang-library.fxs
+<DEBUG> 3-Oct-2018::14:20:09.120 endor confd[5676]: - Loading file /home/etu/confd-6.4/etc/confd/ietf-netconf-notifications.fxs
+<DEBUG> 3-Oct-2018::14:20:09.121 endor confd[5676]: - Loading file ./dhcpd.fxs
+<DEBUG> 3-Oct-2018::14:20:09.121 endor confd[5676]: - Loading file /home/etu/confd-6.4/etc/confd/tailf-netconf-monitoring.fxs
+<DEBUG> 3-Oct-2018::14:20:09.122 endor confd[5676]: - Loading file /home/etu/confd-6.4/etc/confd/tailf-confd-monitoring.fxs
+<DEBUG> 3-Oct-2018::14:20:09.123 endor confd[5676]: - Loading file /home/etu/confd-6.4/etc/confd/tailf-acm.fxs
+<DEBUG> 3-Oct-2018::14:20:09.123 endor confd[5676]: - Loading file /home/etu/confd-6.4/etc/confd/tailf-rollback.fxs
+<DEBUG> 3-Oct-2018::14:20:09.124 endor confd[5676]: - Loading file /home/etu/confd-6.4/etc/confd/tailf-kicker.fxs
+<DEBUG> 3-Oct-2018::14:20:09.124 endor confd[5676]: - Loading file /home/etu/confd-6.4/etc/confd/tailf-aaa.fxs
+<DEBUG> 3-Oct-2018::14:20:09.129 endor confd[5676]: - Loading file /home/etu/confd-6.4/etc/confd/confd.ccl
+<INFO> 3-Oct-2018::14:20:09.184 endor confd[5676]: - Starting to listen for Internal IPC on 127.0.0.1:4565
+<INFO> 3-Oct-2018::14:20:09.322 endor confd[5676]: - CDB load: processing file: ./confd-cdb/aaa_init.xml
+<INFO> 3-Oct-2018::14:20:09.422 endor confd[5676]: - Starting to listen for NETCONF TCP on 0.0.0.0:2023
+<INFO> 3-Oct-2018::14:20:09.449 endor confd[5676]: - Starting to listen for CLI SSH on 0.0.0.0:2024
+<INFO> 3-Oct-2018::14:20:09.551 endor confd[5676]: - ConfD started vsn: 6.4
+<INFO> 3-Oct-2018::14:22:25.847 endor confd[5676]: - ConfD stopping (confd --stop called by etu in /home/etu/Téléchargements/dhcpd)
+<INFO> 3-Oct-2018::14:22:25.858 endor confd[5676]: - Stopping to listen for NETCONF TCP on 0.0.0.0:2023
+<INFO> 3-Oct-2018::14:22:25.980 endor confd[5676]: - Daemon logging terminating, reason: shutdown
+<INFO> 3-Oct-2018::14:22:27.164 endor confd[5806]: - Writing daemon log to /home/etu/Téléchargements/dhcpd/confd.log
+<INFO> 3-Oct-2018::14:22:27.166 endor confd[5806]: - Writing NETCONF log to /home/etu/Téléchargements/dhcpd/netconf.log
+<INFO> 3-Oct-2018::14:22:27.166 endor confd[5806]: - Writing audit log to /home/etu/Téléchargements/dhcpd/audit.log
+<INFO> 3-Oct-2018::14:22:27.166 endor confd[5806]: - Daemon logging started
+<INFO> 3-Oct-2018::14:22:27.166 endor confd[5806]: - Writing developer log to /home/etu/Téléchargements/dhcpd/devel.log
+<DEBUG> 3-Oct-2018::14:22:27.176 endor confd[5806]: - Loading file /home/etu/confd-6.4/etc/confd/ietf-netconf-monitoring.fxs
+<DEBUG> 3-Oct-2018::14:22:27.176 endor confd[5806]: - Loading file /home/etu/confd-6.4/etc/confd/tailf-common-monitoring.fxs
+<DEBUG> 3-Oct-2018::14:22:27.177 endor confd[5806]: - Loading file /home/etu/confd-6.4/etc/confd/ietf-netconf-acm.fxs
+<DEBUG> 3-Oct-2018::14:22:27.177 endor confd[5806]: - Loading file /home/etu/confd-6.4/etc/confd/iana-crypt-hash.fxs
+<DEBUG> 3-Oct-2018::14:22:27.177 endor confd[5806]: - Loading file /home/etu/confd-6.4/etc/confd/ietf-yang-library.fxs
+<DEBUG> 3-Oct-2018::14:22:27.178 endor confd[5806]: - Loading file /home/etu/confd-6.4/etc/confd/ietf-netconf-notifications.fxs
+<DEBUG> 3-Oct-2018::14:22:27.178 endor confd[5806]: - Loading file ./dhcpd.fxs
+<DEBUG> 3-Oct-2018::14:22:27.179 endor confd[5806]: - Loading file /home/etu/confd-6.4/etc/confd/tailf-netconf-monitoring.fxs
+<DEBUG> 3-Oct-2018::14:22:27.179 endor confd[5806]: - Loading file /home/etu/confd-6.4/etc/confd/tailf-confd-monitoring.fxs
+<DEBUG> 3-Oct-2018::14:22:27.181 endor confd[5806]: - Loading file /home/etu/confd-6.4/etc/confd/tailf-acm.fxs
+<DEBUG> 3-Oct-2018::14:22:27.181 endor confd[5806]: - Loading file /home/etu/confd-6.4/etc/confd/tailf-rollback.fxs
+<DEBUG> 3-Oct-2018::14:22:27.181 endor confd[5806]: - Loading file /home/etu/confd-6.4/etc/confd/tailf-kicker.fxs
+<DEBUG> 3-Oct-2018::14:22:27.182 endor confd[5806]: - Loading file /home/etu/confd-6.4/etc/confd/tailf-aaa.fxs
+<DEBUG> 3-Oct-2018::14:22:27.187 endor confd[5806]: - Loading file /home/etu/confd-6.4/etc/confd/confd.ccl
+<INFO> 3-Oct-2018::14:22:27.239 endor confd[5806]: - Starting to listen for Internal IPC on 127.0.0.1:4565
+<INFO> 3-Oct-2018::14:22:27.397 endor confd[5806]: - Starting to listen for NETCONF TCP on 0.0.0.0:2023
+<INFO> 3-Oct-2018::14:22:27.425 endor confd[5806]: - Starting to listen for CLI SSH on 0.0.0.0:2024
+<INFO> 3-Oct-2018::14:22:27.526 endor confd[5806]: - ConfD started vsn: 6.4
+<INFO> 3-Oct-2018::14:26:18.906 endor confd[5806]: - ConfD stopping (confd --stop called by etu in /home/etu/Téléchargements/dhcpd)
+<INFO> 3-Oct-2018::14:26:18.914 endor confd[5806]: - Stopping to listen for NETCONF TCP on 0.0.0.0:2023
+<INFO> 3-Oct-2018::14:26:19.038 endor confd[5806]: - Daemon logging terminating, reason: shutdown
+<INFO> 3-Oct-2018::14:35:41.159 endor confd[6002]: - Writing daemon log to /home/etu/Téléchargements/dhcpd/confd.log
+<INFO> 3-Oct-2018::14:35:41.161 endor confd[6002]: - Writing NETCONF log to /home/etu/Téléchargements/dhcpd/netconf.log
+<INFO> 3-Oct-2018::14:35:41.161 endor confd[6002]: - Writing audit log to /home/etu/Téléchargements/dhcpd/audit.log
+<INFO> 3-Oct-2018::14:35:41.162 endor confd[6002]: - Daemon logging started
+<INFO> 3-Oct-2018::14:35:41.162 endor confd[6002]: - Writing developer log to /home/etu/Téléchargements/dhcpd/devel.log
+<DEBUG> 3-Oct-2018::14:35:41.172 endor confd[6002]: - Loading file /home/etu/confd-6.4/etc/confd/ietf-netconf-monitoring.fxs
+<DEBUG> 3-Oct-2018::14:35:41.172 endor confd[6002]: - Loading file /home/etu/confd-6.4/etc/confd/tailf-common-monitoring.fxs
+<DEBUG> 3-Oct-2018::14:35:41.173 endor confd[6002]: - Loading file /home/etu/confd-6.4/etc/confd/ietf-netconf-acm.fxs
+<DEBUG> 3-Oct-2018::14:35:41.173 endor confd[6002]: - Loading file /home/etu/confd-6.4/etc/confd/iana-crypt-hash.fxs
+<DEBUG> 3-Oct-2018::14:35:41.173 endor confd[6002]: - Loading file /home/etu/confd-6.4/etc/confd/ietf-yang-library.fxs
+<DEBUG> 3-Oct-2018::14:35:41.174 endor confd[6002]: - Loading file /home/etu/confd-6.4/etc/confd/ietf-netconf-notifications.fxs
+<DEBUG> 3-Oct-2018::14:35:41.174 endor confd[6002]: - Loading file ./dhcpd.fxs
+<DEBUG> 3-Oct-2018::14:35:41.175 endor confd[6002]: - Loading file /home/etu/confd-6.4/etc/confd/tailf-netconf-monitoring.fxs
+<DEBUG> 3-Oct-2018::14:35:41.175 endor confd[6002]: - Loading file /home/etu/confd-6.4/etc/confd/tailf-confd-monitoring.fxs
+<DEBUG> 3-Oct-2018::14:35:41.176 endor confd[6002]: - Loading file /home/etu/confd-6.4/etc/confd/tailf-acm.fxs
+<DEBUG> 3-Oct-2018::14:35:41.177 endor confd[6002]: - Loading file /home/etu/confd-6.4/etc/confd/tailf-rollback.fxs
+<DEBUG> 3-Oct-2018::14:35:41.177 endor confd[6002]: - Loading file /home/etu/confd-6.4/etc/confd/tailf-kicker.fxs
+<DEBUG> 3-Oct-2018::14:35:41.178 endor confd[6002]: - Loading file /home/etu/confd-6.4/etc/confd/tailf-aaa.fxs
+<DEBUG> 3-Oct-2018::14:35:41.183 endor confd[6002]: - Loading file /home/etu/confd-6.4/etc/confd/confd.ccl
+<INFO> 3-Oct-2018::14:35:41.240 endor confd[6002]: - Starting to listen for Internal IPC on 127.0.0.1:4565
+<INFO> 3-Oct-2018::14:35:41.409 endor confd[6002]: - Starting to listen for NETCONF TCP on 0.0.0.0:2023
+<INFO> 3-Oct-2018::14:35:41.440 endor confd[6002]: - Starting to listen for CLI SSH on 0.0.0.0:2024
+<INFO> 3-Oct-2018::14:35:41.542 endor confd[6002]: - ConfD started vsn: 6.4
+<INFO> 3-Oct-2018::14:36:54.570 endor confd[6002]: - ConfD stopping (confd --stop called by etu in /home/etu/Téléchargements/dhcpd)
+<INFO> 3-Oct-2018::14:36:54.578 endor confd[6002]: - Stopping to listen for NETCONF TCP on 0.0.0.0:2023
+<INFO> 3-Oct-2018::14:36:54.700 endor confd[6002]: - Daemon logging terminating, reason: shutdown
+<INFO> 3-Oct-2018::14:36:55.891 endor confd[6071]: - Writing daemon log to /home/etu/Téléchargements/dhcpd/confd.log
+<INFO> 3-Oct-2018::14:36:55.893 endor confd[6071]: - Writing NETCONF log to /home/etu/Téléchargements/dhcpd/netconf.log
+<INFO> 3-Oct-2018::14:36:55.893 endor confd[6071]: - Writing audit log to /home/etu/Téléchargements/dhcpd/audit.log
+<INFO> 3-Oct-2018::14:36:55.893 endor confd[6071]: - Daemon logging started
+<INFO> 3-Oct-2018::14:36:55.893 endor confd[6071]: - Writing developer log to /home/etu/Téléchargements/dhcpd/devel.log
+<DEBUG> 3-Oct-2018::14:36:55.904 endor confd[6071]: - Loading file /home/etu/confd-6.4/etc/confd/ietf-netconf-monitoring.fxs
+<DEBUG> 3-Oct-2018::14:36:55.904 endor confd[6071]: - Loading file /home/etu/confd-6.4/etc/confd/tailf-common-monitoring.fxs
+<DEBUG> 3-Oct-2018::14:36:55.905 endor confd[6071]: - Loading file /home/etu/confd-6.4/etc/confd/ietf-netconf-acm.fxs
+<DEBUG> 3-Oct-2018::14:36:55.905 endor confd[6071]: - Loading file /home/etu/confd-6.4/etc/confd/iana-crypt-hash.fxs
+<DEBUG> 3-Oct-2018::14:36:55.906 endor confd[6071]: - Loading file /home/etu/confd-6.4/etc/confd/ietf-yang-library.fxs
+<DEBUG> 3-Oct-2018::14:36:55.906 endor confd[6071]: - Loading file /home/etu/confd-6.4/etc/confd/ietf-netconf-notifications.fxs
+<DEBUG> 3-Oct-2018::14:36:55.906 endor confd[6071]: - Loading file ./dhcpd.fxs
+<DEBUG> 3-Oct-2018::14:36:55.907 endor confd[6071]: - Loading file /home/etu/confd-6.4/etc/confd/tailf-netconf-monitoring.fxs
+<DEBUG> 3-Oct-2018::14:36:55.907 endor confd[6071]: - Loading file /home/etu/confd-6.4/etc/confd/tailf-confd-monitoring.fxs
+<DEBUG> 3-Oct-2018::14:36:55.909 endor confd[6071]: - Loading file /home/etu/confd-6.4/etc/confd/tailf-acm.fxs
+<DEBUG> 3-Oct-2018::14:36:55.909 endor confd[6071]: - Loading file /home/etu/confd-6.4/etc/confd/tailf-rollback.fxs
+<DEBUG> 3-Oct-2018::14:36:55.910 endor confd[6071]: - Loading file /home/etu/confd-6.4/etc/confd/tailf-kicker.fxs
+<DEBUG> 3-Oct-2018::14:36:55.910 endor confd[6071]: - Loading file /home/etu/confd-6.4/etc/confd/tailf-aaa.fxs
+<DEBUG> 3-Oct-2018::14:36:55.916 endor confd[6071]: - Loading file /home/etu/confd-6.4/etc/confd/confd.ccl
+<INFO> 3-Oct-2018::14:36:55.976 endor confd[6071]: - Starting to listen for Internal IPC on 127.0.0.1:4565
+<INFO> 3-Oct-2018::14:36:56.150 endor confd[6071]: - Starting to listen for NETCONF TCP on 0.0.0.0:2023
+<INFO> 3-Oct-2018::14:36:56.179 endor confd[6071]: - Starting to listen for CLI SSH on 0.0.0.0:2024
+<INFO> 3-Oct-2018::14:36:56.279 endor confd[6071]: - ConfD started vsn: 6.4

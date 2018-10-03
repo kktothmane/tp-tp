@@ -1,0 +1,39 @@
+<INFO> 3-Oct-2018::14:20:09.116 endor confd[5676]: confd embedded apps in early_phase0: []
+<INFO> 3-Oct-2018::14:20:09.205 endor confd[5676]: confd mmap_schema handle_info got msg: timeout
+<INFO> 3-Oct-2018::14:20:09.215 endor confd[5676]: confd embedded apps in phase0: []
+<INFO> 3-Oct-2018::14:20:09.322 endor confd[5676]: devel-cdb init files found in ./confd-cdb: aaa_init.xml
+<INFO> 3-Oct-2018::14:20:09.354 endor confd[5676]: devel-cdb Compacted CDB journal file: 8 ms (87 nodes in memory, disk size 1.43 KiB -> 1.39 KiB)
+<INFO> 3-Oct-2018::14:20:09.358 endor confd[5676]: confd embedded apps in phase1: []
+<ERR> 3-Oct-2018::14:20:09.386 endor confd[5676]: devel-aaa Module "tailf-webui" in access rule "any-group/tailf-webui-user" does not exist - ignoring rule
+<INFO> 3-Oct-2018::14:20:09.414 endor confd[5676]: confd embedded apps in phase1_delayed: []
+<INFO> 3-Oct-2018::14:20:09.417 endor confd[5676]: confd embedded apps in phase2: []
+<INFO> 3-Oct-2018::14:22:27.173 endor confd[5806]: confd embedded apps in early_phase0: []
+<INFO> 3-Oct-2018::14:22:27.258 endor confd[5806]: confd mmap_schema handle_info got msg: timeout
+<INFO> 3-Oct-2018::14:22:27.271 endor confd[5806]: confd embedded apps in phase0: []
+<INFO> 3-Oct-2018::14:22:27.303 endor confd[5806]: devel-cdb Loaded oper data from ./confd-cdb/O.cdb (4 bytes data in 0.000s)
+<INFO> 3-Oct-2018::14:22:27.319 endor confd[5806]: devel-cdb Loaded schema file: ./confd-cdb/C.cdb (v3 from 6.4)
+<INFO> 3-Oct-2018::14:22:27.321 endor confd[5806]: devel-cdb Loaded configuration from ./confd-cdb/A.cdb (1.39 KiB data, 1 transaction in 0.000s)
+<INFO> 3-Oct-2018::14:22:27.354 endor confd[5806]: confd embedded apps in phase1: []
+<ERR> 3-Oct-2018::14:22:27.377 endor confd[5806]: devel-aaa Module "tailf-webui" in access rule "any-group/tailf-webui-user" does not exist - ignoring rule
+<INFO> 3-Oct-2018::14:22:27.389 endor confd[5806]: confd embedded apps in phase1_delayed: []
+<INFO> 3-Oct-2018::14:22:27.392 endor confd[5806]: confd embedded apps in phase2: []
+<INFO> 3-Oct-2018::14:35:41.169 endor confd[6002]: confd embedded apps in early_phase0: []
+<INFO> 3-Oct-2018::14:35:41.261 endor confd[6002]: confd mmap_schema handle_info got msg: timeout
+<INFO> 3-Oct-2018::14:35:41.273 endor confd[6002]: confd embedded apps in phase0: []
+<INFO> 3-Oct-2018::14:35:41.306 endor confd[6002]: devel-cdb Loaded oper data from ./confd-cdb/O.cdb (4 bytes data in 0.000s)
+<INFO> 3-Oct-2018::14:35:41.324 endor confd[6002]: devel-cdb Loaded schema file: ./confd-cdb/C.cdb (v3 from 6.4)
+<INFO> 3-Oct-2018::14:35:41.326 endor confd[6002]: devel-cdb Loaded configuration from ./confd-cdb/A.cdb (1.39 KiB data, 1 transaction in 0.000s)
+<INFO> 3-Oct-2018::14:35:41.362 endor confd[6002]: confd embedded apps in phase1: []
+<ERR> 3-Oct-2018::14:35:41.390 endor confd[6002]: devel-aaa Module "tailf-webui" in access rule "any-group/tailf-webui-user" does not exist - ignoring rule
+<INFO> 3-Oct-2018::14:35:41.402 endor confd[6002]: confd embedded apps in phase1_delayed: []
+<INFO> 3-Oct-2018::14:35:41.405 endor confd[6002]: confd embedded apps in phase2: []
+<INFO> 3-Oct-2018::14:36:55.901 endor confd[6071]: confd embedded apps in early_phase0: []
+<INFO> 3-Oct-2018::14:36:55.998 endor confd[6071]: confd mmap_schema handle_info got msg: timeout
+<INFO> 3-Oct-2018::14:36:56.012 endor confd[6071]: confd embedded apps in phase0: []
+<INFO> 3-Oct-2018::14:36:56.045 endor confd[6071]: devel-cdb Loaded oper data from ./confd-cdb/O.cdb (4 bytes data in 0.000s)
+<INFO> 3-Oct-2018::14:36:56.063 endor confd[6071]: devel-cdb Loaded schema file: ./confd-cdb/C.cdb (v3 from 6.4)
+<INFO> 3-Oct-2018::14:36:56.065 endor confd[6071]: devel-cdb Loaded configuration from ./confd-cdb/A.cdb (1.39 KiB data, 1 transaction in 0.000s)
+<INFO> 3-Oct-2018::14:36:56.102 endor confd[6071]: confd embedded apps in phase1: []
+<ERR> 3-Oct-2018::14:36:56.129 endor confd[6071]: devel-aaa Module "tailf-webui" in access rule "any-group/tailf-webui-user" does not exist - ignoring rule
+<INFO> 3-Oct-2018::14:36:56.142 endor confd[6071]: confd embedded apps in phase1_delayed: []
+<INFO> 3-Oct-2018::14:36:56.145 endor confd[6071]: confd embedded apps in phase2: []
